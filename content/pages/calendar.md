@@ -4,39 +4,458 @@ title: Calendar
 uid: be0fc42f-f90b-6dff-3cef-820efb271565
 ---
 
-| Ses # | TopicS | Key Dates |
-| --- | --- | --- |
-| {{< td-colspan 4 >}}**Signals & Systems in Time & Frequency**{{< /td-colspan >}} ||||
-| 1 | Introduction | Recitation 1 |
-| 2 | Transforms | Recitation 2 |
-| 3 | Energy Spectral Density |  {{< br >}}{{< br >}} Recitation 3 {{< br >}}{{< br >}} Problem Set 1 Due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**State-Space Models**{{< /td-colspan >}} |||
-| 4 | State-Space Models | &nbsp; |
-| 5 | State-Space Models, Equilibrium, Linearization |  {{< br >}}{{< br >}} Recitation 4  {{< br >}}{{< br >}} Problem Set 2 Due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Modal Solutions of LTI Systems, Reachability and Observability, Transfer Functions, Hidden Modes**{{< /td-colspan >}} |||
-| 6 | Modal Solution of Undriven CT and DT LTI State-Space Models | Recitation 5 |
-| 7 | Full Modal Solution, Asymptotic Stability, Reachability, and Observability |  {{< br >}}{{< br >}} Recitation 6 {{< br >}}{{< br >}} Problem Set 3 Due {{< br >}}{{< br >}}  |
-| 8 | Matrix Exponential, ZIR+ZSR, Transfer Function, Hidden Modes, Reaching Target States | Recitation 7 |
-| {{< td-colspan 3 >}}**Observers, State Feedback, Observer-Based Feedback** {{< /td-colspan >}} |||
-| 9 | Observers for State Estimation |  {{< br >}}{{< br >}} Recitation 8  {{< br >}}{{< br >}} Problem Set 4 Due {{< br >}}{{< br >}}  |
-| 10 | Observers, State Feedback | Recitation 9 |
-| 11 | State Feedback, Observer-Based Feedback |  {{< br >}}{{< br >}} Quiz 1 {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Probablistic Models, Random Variables**{{< /td-colspan >}} |||
-| 12 | Probabilistic Models, Random Variables | Recitation 10 |
-| {{< td-colspan 3 >}}**MMSE and LMMSE Estimation**{{< /td-colspan >}} |||
-| 13 | Vector Picture for First- and Second-Order Statistics; MMSE and LMMSE Estimation |  {{< br >}}{{< br >}} Recitation 11  {{< br >}}{{< br >}} Problem Set 5 Due {{< br >}}{{< br >}}  |
-| 14 | LMMSE Estimation, Orthogonality | Recitation 12 |
-| 15 | Normal Equations, Random Processes |  {{< br >}}{{< br >}} Recitation 13 {{< br >}}{{< br >}} Problem Set 6 Due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**WSS Processes**{{< /td-colspan >}} |||
-| 16 | Wide-Sense Stationary Processes; LTI Filtering of WSS Processes | Recitation 14 |
-| 17 | LTI Filtering of WSS Processes |  {{< br >}}{{< br >}} Recitation 15 {{< br >}}{{< br >}} Problem Set 7 Due {{< br >}}{{< br >}}  |
-| 18 | Power Spectral Density (PSD) |  {{< br >}}{{< br >}} Recitation 16 {{< br >}}{{< br >}} Problem Set 8 Due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Wiener Filtering**{{< /td-colspan >}} |||
-| 19 | Einstein-Wiener-Khinchin Theorem, PSD Applications, Modeling Filters |  {{< br >}}{{< br >}} Recitation 17 {{< br >}}{{< br >}} Recitation 18 {{< br >}}{{< br >}} Quiz 2 {{< br >}}{{< br >}}  |
-| 20 | Wiener Filtering |  {{< br >}}{{< br >}} Recitation 19  {{< br >}}{{< br >}}  |
-| 21 | Wiener Filtering Illustrations |  {{< br >}}{{< br >}} Recitation 20 {{< br >}}{{< br >}} Problem Set 9 Due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Hypothesis Testing**{{< /td-colspan >}} |||
-| 22 | Hypothesis Testing | Recitation 21  |
-| {{< td-colspan 3 >}}**Signal Detection**{{< /td-colspan >}} |||
-| 23 | Neyman-Pearson Testing, Signal Detection |  {{< br >}}{{< br >}} Recitation 22 {{< br >}}{{< br >}} Problem Set 10 Due {{< br >}}{{< br >}}  |
-| 24 | Matched Filtering |  {{< br >}}{{< br >}} Recitation 23 {{< br >}}{{< br >}} Recitation 24 {{< br >}}{{< br >}} Problem Set 11 Due {{< br >}}{{< br >}} Final Exam (during finals week) {{< br >}}{{< br >}}
+{{< tableopen >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+TopicS
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Signals & Systems in Time & Frequency**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Transforms
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Spectral Density
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 3
+
+Problem Set 1 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**State-Space Models**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+State-Space Models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+State-Space Models, Equilibrium, Linearization
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 4 
+
+Problem Set 2 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Modal Solutions of LTI Systems, Reachability and Observability, Transfer Functions, Hidden Modes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Modal Solution of Undriven CT and DT LTI State-Space Models
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Full Modal Solution, Asymptotic Stability, Reachability, and Observability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 6
+
+Problem Set 3 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Matrix Exponential, ZIR+ZSR, Transfer Function, Hidden Modes, Reaching Target States
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Observers, State Feedback, Observer-Based Feedback** 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Observers for State Estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 8 
+
+Problem Set 4 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Observers, State Feedback
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+State Feedback, Observer-Based Feedback
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz 1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Probablistic Models, Random Variables**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilistic Models, Random Variables
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**MMSE and LMMSE Estimation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Vector Picture for First- and Second-Order Statistics; MMSE and LMMSE Estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 11 
+
+Problem Set 5 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+LMMSE Estimation, Orthogonality
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Equations, Random Processes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 13
+
+Problem Set 6 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**WSS Processes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Wide-Sense Stationary Processes; LTI Filtering of WSS Processes
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+LTI Filtering of WSS Processes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 15
+
+Problem Set 7 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Power Spectral Density (PSD)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 16
+
+Problem Set 8 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Wiener Filtering**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Einstein-Wiener-Khinchin Theorem, PSD Applications, Modeling Filters
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 17
+
+Recitation 18
+
+Quiz 2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Wiener Filtering
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 19 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Wiener Filtering Illustrations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 20
+
+Problem Set 9 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Hypothesis Testing**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis Testing
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 21 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Signal Detection**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Neyman-Pearson Testing, Signal Detection
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 22
+
+Problem Set 10 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Matched Filtering
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recitation 23
+
+Recitation 24
+
+Problem Set 11 Due
+
+Final Exam (during finals week)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
