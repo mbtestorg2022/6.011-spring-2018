@@ -286,7 +286,7 @@ LTI Filtering of WSS Processes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec16)
+[Lecture 16 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec16)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +298,7 @@ LTI Filtering of WSS Processes
 LTI Filtering of WSS Processes
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 17 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec17)
+[Lecture 17 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec17)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -330,7 +330,7 @@ Modeling Filters
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 19 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec19)
+[Lecture 19 Slides (PDF)]({{< baseurl >}}/resources/mit6_011s18lec19)
 {{< tdclose >}}
 
 {{< trclose >}}
