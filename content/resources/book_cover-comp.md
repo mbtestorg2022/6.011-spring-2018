@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4ad8a5cb-6660-25e2-162f-e078cff61395
 resourcetype: Image
 title: Book_cover-comp.png
 uid: ba441293-cd33-e1a6-8ae7-43a55e8c2dee

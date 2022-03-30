@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 9ff47270-4dbe-89c3-cc91-5ab2b886e34a
 resourcetype: Image
 title: recitation-comp.jpg
 uid: 3ea2a72e-28d9-9d7c-0c08-f0ff32070245
